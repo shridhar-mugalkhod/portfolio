@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.65b7414d.css",
-    "main.js": "/portfolio/static/js/main.6d500e91.js",
+    "main.js": "/portfolio/static/js/main.1e1f1877.js",
     "static/media/shridhar.jpeg": "/portfolio/static/media/shridhar.057b00355feab036d0c3.jpeg",
     "static/media/amazonClonePage.png": "/portfolio/static/media/amazonClonePage.28b3ee685fb10a01f9fa.png",
     "static/media/portfolioPage.png": "/portfolio/static/media/portfolioPage.737dc1435d03891e841e.png",
@@ -9,12 +9,13 @@
     "static/media/Keeper.png": "/portfolio/static/media/Keeper.a6f45a1a3ff48dcd5b7e.png",
     "static/media/greenTheMap.PNG": "/portfolio/static/media/greenTheMap.e423ebaba1c1a63234fb.PNG",
     "static/media/mongodb.png": "/portfolio/static/media/mongodb.c20e1bc7e958c8db307f.png",
+    "static/media/nestJSLogo.svg": "/portfolio/static/media/nestJSLogo.240f4abf5128b24d7adada7c0a159e6f.svg",
     "index.html": "/portfolio/index.html",
     "main.65b7414d.css.map": "/portfolio/static/css/main.65b7414d.css.map",
-    "main.6d500e91.js.map": "/portfolio/static/js/main.6d500e91.js.map"
+    "main.1e1f1877.js.map": "/portfolio/static/js/main.1e1f1877.js.map"
   },
   "entrypoints": [
     "static/css/main.65b7414d.css",
-    "static/js/main.6d500e91.js"
+    "static/js/main.1e1f1877.js"
   ]
 }
